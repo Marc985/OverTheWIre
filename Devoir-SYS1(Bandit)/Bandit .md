@@ -14,7 +14,7 @@ Passeword:NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ---
 
-## mevem 1->2
+## level 1->2
 
    ->ssh bandit1@bandit.labs.overthewire.org -p 2220
    -> cat ./-
